@@ -257,6 +257,3 @@ Computer Science Student
 This project is available for educational purposes.
 
 ```
-
-This README will look professional on GitHub and matches a beginner/intermediate WinUI 3 project.
-```
