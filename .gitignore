@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build files
+bin/
+obj/
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Test files
+TestResults/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# WinUI generated files
+Generated Files/
+*.g.cs
+*.g.i.cs
+
+# App packaging output
+AppPackages/
+BundleArtifacts/
+
+# MSIX files
+*.msix
+*.msixbundle
+*.appx
+*.appxbundle
