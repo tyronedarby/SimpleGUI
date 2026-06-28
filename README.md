@@ -1,4 +1,4 @@
-```markdown
+
 # Simple WinUI 3 C# GUI Application
 
 ## Overview
