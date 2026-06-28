@@ -11,6 +11,12 @@ This project was created to demonstrate the fundamentals of Windows desktop appl
 
 ---
 
+## Preview/Screenshot
+
+<img width="989" height="507" alt="Screenshot 2026-06-28 105125" src="https://github.com/user-attachments/assets/e2bc7dcb-e5e1-4d91-a5d0-c481d2029d40" />
+
+---
+
 ## Features
 
 - User-friendly graphical interface
